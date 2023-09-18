@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.video-input label,
+.video-input input,
+.video-input button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.summary h2 {
+    margin-top: 20px;
+}
+
+/* Add more CSS styles as needed for styling your page. */
